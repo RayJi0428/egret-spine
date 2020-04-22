@@ -1,0 +1,181 @@
+
+sword.png
+size: 1928,759
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C1
+  rotate: true
+  xy: 1861, 69
+  size: 62, 37
+  orig: 205, 547
+  offset: 76, 26
+  index: -1
+C1-2
+  rotate: true
+  xy: 498, 2
+  size: 53, 144
+  orig: 205, 547
+  offset: 78, 32
+  index: -1
+C2
+  rotate: true
+  xy: 498, 114
+  size: 50, 324
+  orig: 205, 547
+  offset: 82, 26
+  index: -1
+C2-3
+  rotate: false
+  xy: 1782, 18
+  size: 77, 113
+  orig: 205, 547
+  offset: 67, 165
+  index: -1
+C3
+  rotate: true
+  xy: 498, 57
+  size: 55, 291
+  orig: 205, 547
+  offset: 79, 26
+  index: -1
+C3-4
+  rotate: false
+  xy: 1692, 10
+  size: 88, 121
+  orig: 205, 547
+  offset: 62, 276
+  index: -1
+C4
+  rotate: true
+  xy: 824, 112
+  size: 52, 257
+  orig: 205, 547
+  offset: 81, 170
+  index: -1
+circlelight_purple
+  rotate: false
+  xy: 791, 18
+  size: 92, 92
+  orig: 96, 96
+  offset: 0, 4
+  index: -1
+circlelight_red
+  rotate: false
+  xy: 885, 18
+  size: 92, 92
+  orig: 96, 96
+  offset: 0, 4
+  index: -1
+circlelight_yellow
+  rotate: false
+  xy: 979, 18
+  size: 92, 92
+  orig: 96, 96
+  offset: 0, 4
+  index: -1
+crosslight_purple
+  rotate: false
+  xy: 1083, 2
+  size: 201, 151
+  orig: 205, 155
+  offset: 0, 4
+  index: -1
+crosslight_red
+  rotate: false
+  xy: 1286, 2
+  size: 201, 151
+  orig: 205, 155
+  offset: 0, 4
+  index: -1
+crosslight_yellow
+  rotate: false
+  xy: 1489, 2
+  size: 201, 151
+  orig: 205, 155
+  offset: 0, 4
+  index: -1
+diamond_purple
+  rotate: true
+  xy: 1100, 155
+  size: 216, 406
+  orig: 216, 406
+  offset: 0, 0
+  index: -1
+diamond_red
+  rotate: false
+  xy: 1727, 133
+  size: 175, 238
+  orig: 175, 238
+  offset: 0, 0
+  index: -1
+diamond_yellow
+  rotate: true
+  xy: 1508, 155
+  size: 216, 217
+  orig: 216, 217
+  offset: 0, 0
+  index: -1
+light_purple
+  rotate: false
+  xy: 2, 373
+  size: 640, 384
+  orig: 640, 384
+  offset: 0, 0
+  index: -1
+light_red
+  rotate: false
+  xy: 644, 373
+  size: 640, 384
+  orig: 640, 384
+  offset: 0, 0
+  index: -1
+light_yellow
+  rotate: false
+  xy: 1286, 373
+  size: 640, 384
+  orig: 640, 384
+  offset: 0, 0
+  index: -1
+symbol_fire_empty
+  rotate: true
+  xy: 2, 166
+  size: 205, 547
+  orig: 205, 547
+  offset: 0, 0
+  index: -1
+symbol_fire_light
+  rotate: true
+  xy: 551, 166
+  size: 205, 547
+  orig: 205, 547
+  offset: 0, 0
+  index: -1
+symbol_fire_normal
+  rotate: true
+  xy: 2, 30
+  size: 134, 494
+  orig: 205, 547
+  offset: 40, 40
+  index: -1
+symbol_fire_purple
+  rotate: false
+  xy: 1904, 342
+  size: 16, 29
+  orig: 16, 29
+  offset: 0, 0
+  index: -1
+symbol_fire_red
+  rotate: true
+  xy: 1692, 137
+  size: 16, 23
+  orig: 16, 23
+  offset: 0, 0
+  index: -1
+symbol_fire_yellow
+  rotate: false
+  xy: 2, 7
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1

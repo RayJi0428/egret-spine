@@ -1,0 +1,237 @@
+
+queen.png
+size: 1875,1797
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+上半身
+  rotate: true
+  xy: 1615, 346
+  size: 268, 206
+  orig: 270, 207
+  offset: 2, 0
+  index: -1
+下半身
+  rotate: false
+  xy: 2, 707
+  size: 965, 376
+  orig: 965, 376
+  offset: 0, 0
+  index: -1
+右手
+  rotate: true
+  xy: 1641, 2
+  size: 83, 182
+  orig: 83, 182
+  offset: 0, 0
+  index: -1
+右手_107
+  rotate: false
+  xy: 1757, 1124
+  size: 82, 198
+  orig: 122, 247
+  offset: 17, 18
+  index: -1
+右手_111
+  rotate: true
+  xy: 1641, 87
+  size: 99, 176
+  orig: 171, 268
+  offset: 35, 40
+  index: -1
+右手_114
+  rotate: false
+  xy: 1750, 787
+  size: 102, 141
+  orig: 151, 198
+  offset: 13, 35
+  index: -1
+右手_116
+  rotate: false
+  xy: 1725, 677
+  size: 97, 108
+  orig: 139, 165
+  offset: 15, 32
+  index: -1
+右手_119
+  rotate: true
+  xy: 838, 18
+  size: 115, 81
+  orig: 178, 112
+  offset: 23, 12
+  index: -1
+右手_123
+  rotate: true
+  xy: 1750, 930
+  size: 153, 81
+  orig: 254, 140
+  offset: 50, 27
+  index: -1
+右手_127
+  rotate: false
+  xy: 157, 9
+  size: 197, 111
+  orig: 264, 176
+  offset: 27, 29
+  index: -1
+右手_133
+  rotate: true
+  xy: 1757, 1557
+  size: 238, 107
+  orig: 328, 176
+  offset: 37, 29
+  index: -1
+右手_143
+  rotate: false
+  xy: 1396, 35
+  size: 243, 148
+  orig: 322, 270
+  offset: 41, 60
+  index: -1
+右手_146
+  rotate: false
+  xy: 1178, 2
+  size: 216, 181
+  orig: 283, 229
+  offset: 28, 27
+  index: -1
+右手_153
+  rotate: true
+  xy: 639, 8
+  size: 125, 197
+  orig: 160, 233
+  offset: 25, 19
+  index: -1
+右手絲帶
+  rotate: true
+  xy: 393, 2
+  size: 131, 244
+  orig: 131, 246
+  offset: 0, 2
+  index: -1
+右手臂
+  rotate: true
+  xy: 924, 59
+  size: 143, 252
+  orig: 143, 256
+  offset: 0, 4
+  index: -1
+右手臂_b
+  rotate: false
+  xy: 2, 122
+  size: 389, 583
+  orig: 451, 636
+  offset: 33, 16
+  index: -1
+右手臂_f
+  rotate: true
+  xy: 969, 736
+  size: 347, 574
+  orig: 451, 636
+  offset: 70, 25
+  index: -1
+右手袖
+  rotate: true
+  xy: 393, 135
+  size: 187, 529
+  orig: 187, 529
+  offset: 0, 0
+  index: -1
+右腳
+  rotate: true
+  xy: 1545, 756
+  size: 327, 160
+  orig: 327, 160
+  offset: 0, 0
+  index: -1
+左手
+  rotate: false
+  xy: 1548, 616
+  size: 175, 138
+  orig: 175, 138
+  offset: 0, 0
+  index: -1
+左手絲帶
+  rotate: false
+  xy: 2, 2
+  size: 153, 118
+  orig: 153, 118
+  offset: 0, 0
+  index: -1
+左手臂
+  rotate: false
+  xy: 924, 204
+  size: 381, 398
+  orig: 381, 398
+  offset: 0, 0
+  index: -1
+左腳
+  rotate: false
+  xy: 969, 604
+  size: 577, 130
+  orig: 618, 159
+  offset: 17, 24
+  index: -1
+左腳布
+  rotate: false
+  xy: 1307, 185
+  size: 306, 417
+  orig: 306, 417
+  offset: 0, 0
+  index: -1
+後布
+  rotate: false
+  xy: 393, 324
+  size: 515, 381
+  orig: 515, 381
+  offset: 0, 0
+  index: -1
+椅子
+  rotate: false
+  xy: 2, 1085
+  size: 1753, 710
+  orig: 3000, 1500
+  offset: 15, 110
+  index: -1
+眼睛
+  rotate: false
+  xy: 1824, 744
+  size: 49, 41
+  orig: 51, 43
+  offset: 1, 1
+  index: -1
+頭
+  rotate: true
+  xy: 1615, 188
+  size: 156, 204
+  orig: 156, 208
+  offset: 0, 4
+  index: -1
+頭飾1
+  rotate: false
+  xy: 1827, 1372
+  size: 41, 183
+  orig: 41, 183
+  offset: 0, 0
+  index: -1
+頭飾2
+  rotate: true
+  xy: 921, 3
+  size: 54, 172
+  orig: 54, 172
+  offset: 0, 0
+  index: -1
+頭髮1
+  rotate: false
+  xy: 1707, 834
+  size: 41, 249
+  orig: 41, 258
+  offset: 0, 9
+  index: -1
+頭髮2
+  rotate: false
+  xy: 1757, 1324
+  size: 68, 231
+  orig: 68, 231
+  offset: 0, 0
+  index: -1
